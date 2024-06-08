@@ -1,0 +1,24 @@
+[{
+  "transaction_id": "tx_00009_TXN_ID",
+  "external_id": "tx_00009_TXN_ID_manual_receipts_app",
+  "total": 1000,
+  "currency": "GBP",
+  "items": [{
+    "description": "Ten Pound Test Receipt",
+    "quantity": 1,
+    "amount": 1000,
+    "currency": "GBP"
+    }]
+},
+{
+  "transaction_id": "tx_00009_TXN_ID",
+  "external_id": "tx_00009_TXN_ID_manual_receipts_app",
+  "total": 500,
+  "currency": "GBP",
+  "items": [{
+    "description": "Five Pound Test Receipt",
+    "quantity": 1,
+    "amount": 500,
+    "currency": "GBP"
+    }]
+}]
