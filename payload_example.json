@@ -1,6 +1,6 @@
 [{
   "transaction_id": "tx_00009_TXN_ID",
-  "external_id": "tx_00009_TXN_ID_manual_receipts_app",
+  "external_id": "tx_00009_TXN_ID_monzo_receipts_app",
   "total": 1000,
   "currency": "GBP",
   "items": [{
@@ -12,7 +12,7 @@
 },
 {
   "transaction_id": "tx_00009_TXN_ID",
-  "external_id": "tx_00009_TXN_ID_manual_receipts_app",
+  "external_id": "tx_00009_TXN_ID_monzo_receipts_app",
   "total": 500,
   "currency": "GBP",
   "items": [{
